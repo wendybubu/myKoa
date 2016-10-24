@@ -1,0 +1,25 @@
+{
+  "name": "mykoa",
+  "version": "1.0.0",
+  "description": "my koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendybubu/myKoa.git"
+  },
+  "author": "wendy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendybubu/myKoa/issues"
+  },
+  "homepage": "https://github.com/wendybubu/myKoa#readme",
+  "devDependencies": {
+    "koa": "^1.2.4"
+  },
+  "dependencies": {
+    "koa-hello-world": "^1.0.1"
+  }
+}
